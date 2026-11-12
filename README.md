@@ -1,10 +1,9 @@
-# Simple TTS - Landing Page
+# Simple TTS
 
-Este repositorio aloja la landing page para la extensión de Chrome **Simple TTS**.
+Public site for [Simple TTS](https://chromewebstore.google.com/detail/mnnhakddcadkcichdgimoennpkfkcalk), a free Chrome extension that reads web pages aloud with your computer's own voices.
 
-La página web está construida con HTML y Tailwind CSS y se sirve a través de GitHub Pages.
+Live at https://abdell1999.github.io/simpletts-public/
 
-- **Ver Sitio Web:** [Enlace a GitHub Pages](https://abdell1999.github.io/simpletts-landing/)
-- **Instalar Extensión:** [Chrome Web Store](https://chromewebstore.google.com/detail/mnnhakddcadkcichdgimoennpkfkcalk)
+The site is built automatically and published to the `prod` branch, which GitHub Pages serves. Nothing here is edited by hand.
 
-
+Support: extensiones@abdell.dev
